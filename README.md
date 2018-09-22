@@ -3,7 +3,7 @@
 
 **Documentation**                                                               | **Build Status**                                                                                |
 |:-------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
-| [![][docs-stable-img]][docs-stable-url] [![][docs-latest-img]][docs-latest-url] | [![][travis-img]][travis-url]  |
+| [![][docs-latest-img]][docs-latest-url] | [![][travis-img]][travis-url]  |
 
 
 ## Installation
@@ -14,11 +14,6 @@ The package can be installed with Julia's package manager:
 julia> import Pkg
 julia> Pkg.add("HaltonSequences")
 ```
-
-## Documentation
-
-- [**STABLE**][docs-stable-url] &mdash; **most recently tagged version of the documentation.**
-- [**LATEST**][docs-latest-url] &mdash; *in-development version of the documentation.*
 
 ## Project Status
 
