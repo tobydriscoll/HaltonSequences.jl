@@ -7,3 +7,9 @@ makedocs(sitename="HaltonSequences",
         ],
     doctest = true
     )
+
+deploydocs(
+    repo = "github.com/tobydriscoll/HaltonSequences.jl.git",
+    julia = "0.7"
+)
+    
