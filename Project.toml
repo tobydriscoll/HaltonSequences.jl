@@ -1,7 +1,7 @@
 name = "HaltonSequences"
 uuid = "8d45891e-b87e-11e8-349e-5579b59c6af6"
 authors = ["Toby Driscoll <driscoll@udel.edu>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Primes = "27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae"
