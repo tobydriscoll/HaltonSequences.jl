@@ -20,7 +20,7 @@ julia> Pkg.add("HaltonSequences")
 Please open an [issue][issues-url] if you encounter any problems. 
 
 [docs-latest-img]: https://img.shields.io/badge/docs-latest-blue.svg
-[docs-latest-url]: https://tobydriscoll.github.io/HaltonSequences.jl/latest
+[docs-latest-url]: https://tobydriscoll.net/HaltonSequences.jl/dev/
 
 [docs-stable-img]: https://img.shields.io/badge/docs-stable-blue.svg
 [docs-stable-url]: https://tobydriscoll.github.io/HaltonSequences.jl/stable
