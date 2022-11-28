@@ -14,3 +14,4 @@ test = ["Test"]
 
 [compat]
 julia = "1"
+Primes = "0.4, 0.5"
